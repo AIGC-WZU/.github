@@ -1,68 +1,88 @@
-# AIGC-WZU
+<div align="center">
+  <img src="assets/aigcxwzu-logo.png" alt="AIGCxWZU / 温州大学 AIGC 俱乐部" width="420" />
 
-> A student-led AIGC community at Wenzhou University, exploring Generative AI through learning, creation, research, and open-source practice.
+# AIGC-WZU · 温州大学 AIGC 俱乐部
+
+**一个 Lab 型学生社群：以项目为中心，用 AI 做真实系统、真实工具、真实作品。**
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-AIGC--WZU-181717?logo=github)](https://github.com/AIGC-WZU)
 [![Wenzhou University](https://img.shields.io/badge/Wenzhou-University-blue)](https://www.wzu.edu.cn/)
-[![Focus](https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20AIGC-purple)](#what-we-do)
+[![Lab](https://img.shields.io/badge/Mode-Lab%20%7C%20Project--Driven-purple)](#-lab-positioning)
+
+</div>
+
+---
 
 ## 👋 About us
 
-**AIGC-WZU** is the GitHub home for a student-led AIGC community at **Wenzhou University**.
+**AIGC-WZU** 是 **温州大学 AIGC 俱乐部** 的 GitHub 组织主页。
 
-The Wenzhou University AIGC Club was established in 2024 to explore and practice **AI-generated content** technologies across learning, creation, research, and real-world applications.
+我们不是只做「AI 生成图片 / 视频 / 文案」的兴趣群，而是一个更偏 **Lab 性质** 的学生实践社群：围绕 AI 系统、个人智能体、自动化工具、AI + 教育、AI + 创意生产力等方向，持续做项目、写文档、沉淀开源成果。
 
-We bring together students from different majors to learn AI tools, build creative projects, explore AI-assisted education, and turn ideas into open-source demos, tutorials, and real-world applications.
+**AIGC 对我们来说不是边界，而是基础能力与支持层。** 生成式 AI 是工具箱的一部分，用来帮助我们更快地学习、设计、开发、表达和验证想法；真正的目标是把想法做成可以运行、可以展示、可以复用的项目。
 
-## 🚀 What we do
+## 🧪 Lab positioning
 
-- **Learn** — study large language models, image/video generation, multimodal AI, prompt engineering, agents, and AI workflows.
-- **Create** — use AIGC tools to produce videos, images, music, designs, stories, interactive media, and cultural communication projects.
-- **Build** — develop AI demos, web apps, datasets, automation tools, and open-source learning resources.
-- **Share** — organize notes, tutorials, workshops, project templates, and practical guides for students.
-- **Collaborate** — connect technology, design, education, media, entrepreneurship, and local culture.
+我们的定位：
 
-## 🧭 Focus areas
+> **A student-led AI lab community at Wenzhou University, supported by AIGC and driven by real projects.**
 
-| Area | Examples |
-| --- | --- |
-| Generative AI | LLMs, text generation, image generation, video generation, multimodal creation |
-| AI Applications | Chatbots, AI agents, workflow automation, knowledge bases, creative tools |
-| AI + Education | learning assistants, course innovation, teaching resources, responsible AI use |
-| AI + Culture | digital storytelling, city culture, heritage communication, visual design |
-| Open Source | tutorials, starter kits, project templates, datasets, reusable tools |
+我们关注的不只是内容生成，而是完整的 AI 实践链路：
 
-## 📦 Repositories we are building
+- 从 idea 到 prototype；
+- 从 prompt 到 workflow；
+- 从 demo 到 product；
+- 从个人项目到团队协作；
+- 从学习记录到开源沉淀。
 
-Active projects:
+## 🚀 What we build
 
-- [PrivateClaw / 私爪助手](https://github.com/AIGC-WZU/privateclaw) — a local AI assistant with persistent memory, deep search, controlled command execution, scheduled tasks, and Feishu message ingress.
+- **AI Agents / Personal Assistants** — 个人智能体、长期记忆助手、任务规划与执行系统。
+- **AI Workflows** — 自动化流程、工具调用、知识库、信息检索、内容生产流水线。
+- **Creative AI Tools** — 图像、视频、PPT、数字人、交互媒体与创意辅助工具。
+- **AI + Education** — 学习助手、课程创新、教学资源生成、人机协作学习方式。
+- **Open-source Resources** — 教程、项目模板、工具清单、实践案例、Workshop 材料。
 
-Coming soon:
+## 📦 Active projects
 
-- `awesome-aigc` — curated AIGC learning resources, tools, papers, and tutorials.
-- `aigc-wzu.github.io` — official community website and project showcase.
+- [PrivateClaw / 私爪助手](https://github.com/AIGC-WZU/privateclaw)  
+  A local AI assistant with persistent memory, deep search, controlled command execution, scheduled tasks, and Feishu message ingress.
+
+## 🛠️ Repositories we are preparing
+
+- `awesome-aigc` — AIGC / AI tools, tutorials, papers, cases, and learning resources.
+- `aigc-wzu.github.io` — club website, project showcase, event archive, and member portfolio.
 - `ai-demos` — small AI applications and prototypes built by members.
 - `workshop-materials` — slides, notebooks, prompts, and hands-on guides.
 
-## 🤝 Join / collaborate
+## 🤝 Who we welcome
 
-We welcome WZU students, creators, developers, designers, researchers, and anyone interested in Generative AI.
+欢迎温州大学对 AI、技术、设计、内容创作、教育创新、产品实践感兴趣的同学加入。
 
-You can contribute by:
+你不一定需要一开始就会写代码。我们更看重：
 
-1. sharing useful AI tools and learning resources;
-2. submitting project demos or tutorials;
-3. improving documentation and examples;
-4. joining workshops, seminars, and creative challenges;
-5. collaborating on AI + education, AI + culture, and open-source projects.
+1. 愿意主动学习；
+2. 愿意把想法做出来；
+3. 愿意记录和分享；
+4. 愿意参与长期项目建设。
 
-## 🌱 Our principles
+可以参与的方向包括：
 
-- **Human-centered** — AI should amplify creativity, learning, and problem-solving.
-- **Interdisciplinary** — great AIGC projects come from both technology and humanities.
-- **Open sharing** — knowledge becomes more valuable when it is documented and shared.
-- **Responsible use** — use AI with clear thinking, originality, attribution, and care.
+| Direction | You can do |
+| --- | --- |
+| 技术开发 | AI 应用、Agent、网页 Demo、自动化脚本、数据处理 |
+| 内容资料 | 工具测评、教程整理、论文/案例阅读、知识库维护 |
+| 视觉创意 | AI 绘图、视频生成、海报、PPT、品牌视觉、作品集 |
+| 产品运营 | 活动策划、社群运营、公众号/小红书/B站内容、项目展示 |
+| 比赛项目 | 创新创业、挑战杯、互联网+、AIGC 创作赛、AI 应用赛 |
+
+## 🌱 Principles
+
+- **Project-driven** — 用项目推动学习，而不是只停留在讨论。
+- **Human-centered** — AI 服务于人的创造力、学习能力和解决问题能力。
+- **Interdisciplinary** — 技术、设计、教育、传媒、商业和文化可以一起做项目。
+- **Open sharing** — 能公开的知识尽量文档化，能复用的成果尽量开源化。
+- **Responsible use** — 保持独立思考，尊重原创、署名、隐私和合理边界。
 
 ## 🔗 Links
 
@@ -72,4 +92,9 @@ You can contribute by:
 
 ---
 
-Made with curiosity, creativity, and open-source spirit by **AIGC-WZU**.
+<div align="center">
+
+**AIGC-WZU / AIGCxWZU**  
+温州大学 AIGC 俱乐部 · Lab 型 AI 实践社群
+
+</div>
