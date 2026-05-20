@@ -1,12 +1,14 @@
 <div align="center">
   <img src="assets/aigcxwzu-logo.png" alt="AIGCxWZU / 温州大学 AIGC 俱乐部" width="420" />
 
-# AIGC-WZU · 温州大学 AIGC 俱乐部
+# Yueon Labs · AIGC-WZU
 
-**一个 Lab 型学生社群：以项目为中心，用 AI 做真实系统、真实工具、真实作品。**
+## 温州大学 AIGC 俱乐部 / Lab 型 AI 实践社群
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-AIGC--WZU-181717?logo=github)](https://github.com/AIGC-WZU)
-[![Wenzhou University](https://img.shields.io/badge/Wenzhou-University-blue)](https://www.wzu.edu.cn/)
+**以 Lab 方式做真实项目；AIGC 是支持能力，不是我们的边界。**
+
+[![GitHub Org](https://img.shields.io/badge/GitHub-Yueon--Labs-181717?logo=github)](https://github.com/Yueon-Labs)
+[![AIGC-WZU](https://img.shields.io/badge/Community-AIGCxWZU-blue)](https://github.com/Yueon-Labs)
 [![Lab](https://img.shields.io/badge/Mode-Lab%20%7C%20Project--Driven-purple)](#-lab-positioning)
 
 </div>
@@ -15,11 +17,11 @@
 
 ## 👋 About us
 
-**AIGC-WZU** 是 **温州大学 AIGC 俱乐部** 的 GitHub 组织主页。
+**Yueon Labs / AIGC-WZU** 是由 **温州大学 AIGC 俱乐部** 发起和建设的 GitHub 组织。
 
 我们不是只做「AI 生成图片 / 视频 / 文案」的兴趣群，而是一个更偏 **Lab 性质** 的学生实践社群：围绕 AI 系统、个人智能体、自动化工具、AI + 教育、AI + 创意生产力等方向，持续做项目、写文档、沉淀开源成果。
 
-**AIGC 对我们来说不是边界，而是基础能力与支持层。** 生成式 AI 是工具箱的一部分，用来帮助我们更快地学习、设计、开发、表达和验证想法；真正的目标是把想法做成可以运行、可以展示、可以复用的项目。
+**AIGC 对我们来说不是边界，而是基础能力与支持层。** 生成式 AI 是我们的工具箱，用来帮助成员更快地学习、设计、开发、表达和验证想法；真正的目标是把想法做成可以运行、可以展示、可以复用的项目。
 
 ## 🧪 Lab positioning
 
@@ -27,13 +29,13 @@
 
 > **A student-led AI lab community at Wenzhou University, supported by AIGC and driven by real projects.**
 
-我们关注的不只是内容生成，而是完整的 AI 实践链路：
+更具体地说，我们希望把俱乐部建设成：
 
-- 从 idea 到 prototype；
-- 从 prompt 到 workflow；
-- 从 demo 到 product；
-- 从个人项目到团队协作；
-- 从学习记录到开源沉淀。
+- **项目实验室**：用真实项目推动学习，而不是只停留在讨论和工具体验；
+- **技术孵化器**：从 prompt、workflow、agent 到可运行的应用系统；
+- **创作工作台**：用 AI 支持图像、视频、PPT、数字人、交互媒体和内容生产；
+- **开源资料库**：把学习路径、工具测评、实践案例和 workshop 材料沉淀下来；
+- **协作社群**：连接技术、设计、教育、传媒、商业和文化方向的同学。
 
 ## 🚀 What we build
 
@@ -45,13 +47,13 @@
 
 ## 📦 Active projects
 
-- [PrivateClaw / 私爪助手](https://github.com/AIGC-WZU/privateclaw)  
+- [NetAgent-CLI / PrivateClaw](https://github.com/Yueon-Labs/NetAgent-CLI)  
   A local AI assistant with persistent memory, deep search, controlled command execution, scheduled tasks, and Feishu message ingress.
 
 ## 🛠️ Repositories we are preparing
 
 - `awesome-aigc` — AIGC / AI tools, tutorials, papers, cases, and learning resources.
-- `aigc-wzu.github.io` — club website, project showcase, event archive, and member portfolio.
+- `yueon-labs.github.io` — Lab website, project showcase, event archive, and member portfolio.
 - `ai-demos` — small AI applications and prototypes built by members.
 - `workshop-materials` — slides, notebooks, prompts, and hands-on guides.
 
@@ -86,7 +88,7 @@
 
 ## 🔗 Links
 
-- GitHub Organization: <https://github.com/AIGC-WZU>
+- GitHub Organization: <https://github.com/Yueon-Labs>
 - Wenzhou University: <https://www.wzu.edu.cn/>
 - WZU news: [AI 可以这样玩！大学生用人工智能生成温州古城](https://www.wzu.edu.cn/info/1321/91587.htm)
 
@@ -94,7 +96,7 @@
 
 <div align="center">
 
-**AIGC-WZU / AIGCxWZU**  
+**Yueon Labs · AIGC-WZU**  
 温州大学 AIGC 俱乐部 · Lab 型 AI 实践社群
 
 </div>
