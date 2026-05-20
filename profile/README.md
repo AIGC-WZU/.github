@@ -34,6 +34,10 @@ We bring together students from different majors to learn AI tools, build creati
 
 ## 📦 Repositories we are building
 
+Active projects:
+
+- [PrivateClaw / 私爪助手](https://github.com/AIGC-WZU/privateclaw) — a local AI assistant with persistent memory, deep search, controlled command execution, scheduled tasks, and Feishu message ingress.
+
 Coming soon:
 
 - `awesome-aigc` — curated AIGC learning resources, tools, papers, and tutorials.
